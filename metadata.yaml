@@ -1,0 +1,33 @@
+_repo: Strange-True-Stories-of-Louisiana_12577
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- Social life and customs -- Fiction'
+- !lcsh 'Historical fiction, American'
+- !lcsh 'Louisiana -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'War stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: How I got them -- The young aunt with white hair -- The adventures
+  of Françoise and Suzanne -- Alix de Morainville -- Salome Müller, the white slave
+  -- The "haunted house" in Royal Street -- Attalie Brouillard -- War diary of a Union
+  woman in the South.
+title: Strange True Stories of Louisiana
+url: http://www.gutenberg.org/ebooks/12577
